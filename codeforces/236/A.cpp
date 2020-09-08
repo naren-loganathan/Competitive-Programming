@@ -5,8 +5,7 @@ using namespace std;
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int arr[26] = {};
-    int count = 0;
+    int arr[26] = {}, count = 0;
     bool is_it_a_she = 0;
     string s;
     cin >> s;
