@@ -2867,6 +2867,24 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF93181643": {
+    "contest_id": 978,
+    "language": "GNU C++17",
+    "path": "codeforces/978/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Letters",
+    "problem_url": "https://codeforces.com/contest/978/problem/C",
+    "submission_id": "CF93181643",
+    "submission_url": "https://codeforces.com/contest/978/submission/93181643",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Sep/19/2020 15:32"
+  },
   "CF93182445": {
     "contest_id": 447,
     "language": "GNU C++17",
