@@ -2867,6 +2867,24 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF93318926": {
+    "contest_id": 1419,
+    "language": "GNU C++17",
+    "path": "codeforces/1419/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Killjoy",
+    "problem_url": "https://codeforces.com/contest/1419/problem/C",
+    "submission_id": "CF93318926",
+    "submission_url": "https://codeforces.com/contest/1419/submission/93318926",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Sep/20/2020 14:34"
+  },
   "CF93321114": {
     "contest_id": 1419,
     "language": "GNU C++17",
