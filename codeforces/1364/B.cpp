@@ -1,33 +1,38 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-         
-typedef long long ll;
-#define fi first
-#define se second
-#define mp make_pair
-         
-int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    int t; cin >> t;
-    while (t--) {
-        int n; cin >> n;
+
+typedef long long int ll;
+#define M 1000000007
+#define pb push_back
+
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t, n;
+    cin >> t;
+    while(t--){
+        cin >> n;
         vector <int> p(n);
-        for (int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++){
             cin >> p[i];
         }
-        for (int i = 1; i < p.size() - 1; i++) {
-            if (abs(p[i] - p[i - 1]) + abs(p[i] - p[i + 1]) == abs(p[i + 1] - p[i - 1])) {
-                p.erase(p.begin() + i);
-                i--;
+        vector <int> subseq;
+        subseq.pb(p[0]);
+        for(int i = 1; i < n - 1; i++){
+            if(p[i] > p[i + 1] && p[i] > p[i - 1]){
+                subseq.pb(p[i]);
+            }
+            if(!(p[i] > p[i + 1]) && !(p[i] > p[i - 1])){
+                subseq.pb(p[i]);
             }
         }
-        cout << p.size() << "\n";
-        for (int i = 0; i < p.size(); i++) {
-            cout << p[i] << " ";
+        subseq.pb(p[n - 1]);
+        cout << subseq.size() << "\n";
+        for(int i = 0; i < subseq.size(); i++){
+            cout << subseq[i] << ' ';
         }
         cout << "\n";
-    }
+     }
     return 0;
 }
