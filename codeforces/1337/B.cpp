@@ -11,7 +11,7 @@ int main(){
     int t; cin >> t;
     while (t--) {
         bool possible = 0;
-        int x, n, m;
+        int x, n, m, health = 0;
         cin >> x >> n >> m;
         int lightning_hits = 10 * m;
         while (x > lightning_hits && n > 0) {
