@@ -2867,6 +2867,23 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF94057123": {
+    "contest_id": 552,
+    "language": "GNU C++17",
+    "path": "codeforces/552/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vanya and Books",
+    "problem_url": "https://codeforces.com/contest/552/problem/B",
+    "submission_id": "CF94057123",
+    "submission_url": "https://codeforces.com/contest/552/submission/94057123",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/28/2020 12:39"
+  },
   "CF94058208": {
     "contest_id": 1425,
     "language": "GNU C++17",
