@@ -2867,6 +2867,24 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF95854910": {
+    "contest_id": 1355,
+    "language": "GNU C++17",
+    "path": "codeforces/1355/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Young Explorers",
+    "problem_url": "https://codeforces.com/contest/1355/problem/B",
+    "submission_id": "CF95854910",
+    "submission_url": "https://codeforces.com/contest/1355/submission/95854910",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Oct/18/2020 14:19"
+  },
   "CF95900338": {
     "contest_id": 1421,
     "language": "GNU C++17",
