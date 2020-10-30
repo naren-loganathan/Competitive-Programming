@@ -2867,6 +2867,24 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF97193684": {
+    "contest_id": 804,
+    "language": "GNU C++17",
+    "path": "codeforces/804/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Amir",
+    "problem_url": "https://codeforces.com/contest/804/problem/A",
+    "submission_id": "CF97193684",
+    "submission_url": "https://codeforces.com/contest/804/submission/97193684",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Oct/30/2020 23:16"
+  },
   "CF97196204": {
     "contest_id": 1326,
     "language": "GNU C++17",
