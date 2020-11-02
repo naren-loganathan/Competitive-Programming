@@ -2867,6 +2867,23 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF97416793": {
+    "contest_id": 527,
+    "language": "GNU C++17",
+    "path": "codeforces/527/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Playing with Paper",
+    "problem_url": "https://codeforces.com/contest/527/problem/A",
+    "submission_id": "CF97416793",
+    "submission_url": "https://codeforces.com/contest/527/submission/97416793",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/02/2020 15:50"
+  },
   "CF97418205": {
     "contest_id": 1373,
     "language": "GNU C++17",
