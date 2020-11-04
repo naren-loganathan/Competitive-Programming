@@ -2867,6 +2867,24 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF97629537": {
+    "contest_id": 1006,
+    "language": "GNU C++17",
+    "path": "codeforces/1006/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Three Parts of the Array",
+    "problem_url": "https://codeforces.com/contest/1006/problem/C",
+    "submission_id": "CF97629537",
+    "submission_url": "https://codeforces.com/contest/1006/submission/97629537",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Nov/04/2020 17:18"
+  },
   "CF97634731": {
     "contest_id": 1393,
     "language": "GNU C++17",
