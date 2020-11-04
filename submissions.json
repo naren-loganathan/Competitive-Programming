@@ -2867,6 +2867,22 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF97638737": {
+    "contest_id": 1362,
+    "language": "GNU C++17",
+    "path": "codeforces/1362/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Johnny and Ancient Computer",
+    "problem_url": "https://codeforces.com/contest/1362/problem/A",
+    "submission_id": "CF97638737",
+    "submission_url": "https://codeforces.com/contest/1362/submission/97638737",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/04/2020 19:14"
+  },
   "CF97641802": {
     "contest_id": 1359,
     "language": "GNU C++17",
