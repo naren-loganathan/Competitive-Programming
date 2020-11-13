@@ -2867,6 +2867,25 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF98327014": {
+    "contest_id": 1438,
+    "language": "GNU C++17",
+    "path": "codeforces/1438/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Valerii Against Everyone",
+    "problem_url": "https://codeforces.com/contest/1438/problem/B",
+    "submission_id": "CF98327014",
+    "submission_url": "https://codeforces.com/contest/1438/submission/98327014",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Nov/13/2020 23:18"
+  },
   "CF98327229": {
     "contest_id": 1438,
     "language": "GNU C++17",
