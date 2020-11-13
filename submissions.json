@@ -2867,6 +2867,23 @@
     ],
     "timestamp": "Feb/03/2021 12:47"
   },
+  "CF98277017": {
+    "contest_id": 429,
+    "language": "GNU C++17",
+    "path": "codeforces/429/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Xor-tree",
+    "problem_url": "https://codeforces.com/contest/429/problem/A",
+    "submission_id": "CF98277017",
+    "submission_url": "https://codeforces.com/contest/429/submission/98277017",
+    "tags": [
+      "dfs and similar",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Nov/13/2020 19:07"
+  },
   "CF98327014": {
     "contest_id": 1438,
     "language": "GNU C++17",
