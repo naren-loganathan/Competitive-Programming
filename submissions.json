@@ -1,4 +1,21 @@
 {
+  "CF100323727": {
+    "contest_id": 520,
+    "language": "PyPy 3",
+    "path": "codeforces/520/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pangram",
+    "problem_url": "https://codeforces.com/contest/520/problem/A",
+    "submission_id": "CF100323727",
+    "submission_url": "https://codeforces.com/contest/520/submission/100323727",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2020 11:59"
+  },
   "CF100325013": {
     "contest_id": 200,
     "language": "PyPy 3",
