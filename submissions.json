@@ -1,4 +1,20 @@
 {
+  "CF100469697": {
+    "contest_id": 478,
+    "language": "PyPy 3",
+    "path": "codeforces/478/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Table Decorations",
+    "problem_url": "https://codeforces.com/contest/478/problem/C",
+    "submission_id": "CF100469697",
+    "submission_url": "https://codeforces.com/contest/478/submission/100469697",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Dec/05/2020 22:24"
+  },
   "CF100470473": {
     "contest_id": 1029,
     "language": "PyPy 3",
