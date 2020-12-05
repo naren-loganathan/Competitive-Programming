@@ -1,4 +1,22 @@
 {
+  "CF100470473": {
+    "contest_id": 1029,
+    "language": "PyPy 3",
+    "path": "codeforces/1029/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Creating the Contest",
+    "problem_url": "https://codeforces.com/contest/1029/problem/B",
+    "submission_id": "CF100470473",
+    "submission_url": "https://codeforces.com/contest/1029/submission/100470473",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Dec/05/2020 22:39"
+  },
   "CF100473593": {
     "contest_id": 1265,
     "language": "PyPy 3",
