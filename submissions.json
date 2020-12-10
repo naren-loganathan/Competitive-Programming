@@ -1,4 +1,21 @@
 {
+  "CF100831452": {
+    "contest_id": 1417,
+    "language": "PyPy 3",
+    "path": "codeforces/1417/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Copy-paste",
+    "problem_url": "https://codeforces.com/contest/1417/problem/A",
+    "submission_id": "CF100831452",
+    "submission_url": "https://codeforces.com/contest/1417/submission/100831452",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/10/2020 17:38"
+  },
   "CF100912290": {
     "contest_id": 1461,
     "language": "GNU C++17",
