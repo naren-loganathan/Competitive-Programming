@@ -1,4 +1,22 @@
 {
+  "CF102026382": {
+    "contest_id": 350,
+    "language": "GNU C++17",
+    "path": "codeforces/350/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bombs",
+    "problem_url": "https://codeforces.com/contest/350/problem/C",
+    "submission_id": "CF102026382",
+    "submission_url": "https://codeforces.com/contest/350/submission/102026382",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Dec/22/2020 14:33"
+  },
   "CF102029491": {
     "contest_id": 320,
     "language": "GNU C++17",
