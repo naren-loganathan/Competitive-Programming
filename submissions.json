@@ -1,4 +1,21 @@
 {
+  "CF102915058": {
+    "contest_id": 234,
+    "language": "GNU C++17",
+    "path": "codeforces/234/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Weather",
+    "problem_url": "https://codeforces.com/contest/234/problem/C",
+    "submission_id": "CF102915058",
+    "submission_url": "https://codeforces.com/contest/234/submission/102915058",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/31/2020 19:18"
+  },
   "CF102942471": {
     "contest_id": 1174,
     "language": "GNU C++17",
