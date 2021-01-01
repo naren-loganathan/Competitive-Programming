@@ -1,4 +1,22 @@
 {
+  "CF102948672": {
+    "contest_id": 493,
+    "language": "GNU C++17",
+    "path": "codeforces/493/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vasya and Chess",
+    "problem_url": "https://codeforces.com/contest/493/problem/D",
+    "submission_id": "CF102948672",
+    "submission_url": "https://codeforces.com/contest/493/submission/102948672",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jan/01/2021 15:25"
+  },
   "CF103000340": {
     "contest_id": 1195,
     "language": "GNU C++17",
