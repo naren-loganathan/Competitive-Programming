@@ -1,4 +1,20 @@
 {
+  "CF103011957": {
+    "contest_id": 698,
+    "language": "GNU C++17",
+    "path": "codeforces/698/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vacations",
+    "problem_url": "https://codeforces.com/contest/698/problem/A",
+    "submission_id": "CF103011957",
+    "submission_url": "https://codeforces.com/contest/698/submission/103011957",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Jan/02/2021 13:41"
+  },
   "CF103014967": {
     "contest_id": 1245,
     "language": "GNU C++17",
