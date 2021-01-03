@@ -1,4 +1,22 @@
 {
+  "CF103069712": {
+    "contest_id": 1088,
+    "language": "GNU C++17",
+    "path": "codeforces/1088/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ehab and a 2-operation task",
+    "problem_url": "https://codeforces.com/contest/1088/problem/C",
+    "submission_id": "CF103069712",
+    "submission_url": "https://codeforces.com/contest/1088/submission/103069712",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/03/2021 10:22"
+  },
   "CF103154717": {
     "contest_id": 1350,
     "language": "GNU C++17",
