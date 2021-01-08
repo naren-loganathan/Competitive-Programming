@@ -1,4 +1,22 @@
 {
+  "CF103709397": {
+    "contest_id": 1287,
+    "language": "GNU C++17",
+    "path": "codeforces/1287/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hyperset",
+    "problem_url": "https://codeforces.com/contest/1287/problem/B",
+    "submission_id": "CF103709397",
+    "submission_url": "https://codeforces.com/contest/1287/submission/103709397",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Jan/08/2021 17:01"
+  },
   "CF103712933": {
     "contest_id": 1201,
     "language": "GNU C++17",
