@@ -44,8 +44,8 @@ int main() {
                 }
             }
             else if (l == 1) {
-                largest = maxr[r + 1] - delta;  //NOOOOOOOOOOOOOOOOOOOOOOOOO FML
-                smallest = minr[r + 1] - delta; //NOOOOOOOOOOOOOOOOOOOOOOOOO FML
+                largest = maxr[r + 1] - delta;
+                smallest = minr[r + 1] - delta;
             }
             else {
                 largest = max(maxl[l - 1], maxr[r + 1] - delta);
