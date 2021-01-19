@@ -1,4 +1,21 @@
 {
+  "CF104756293": {
+    "contest_id": 799,
+    "language": "GNU C++17",
+    "path": "codeforces/799/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "T-shirt buying",
+    "problem_url": "https://codeforces.com/contest/799/problem/B",
+    "submission_id": "CF104756293",
+    "submission_url": "https://codeforces.com/contest/799/submission/104756293",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jan/19/2021 16:02"
+  },
   "CF104775745": {
     "contest_id": 1474,
     "language": "GNU C++17",
