@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [A - Nezzar and Board](https://codeforces.com/contest/1477/problem/A) | [GNU C++17](./codeforces/1477/A.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Feb/03/2021 12:47 | 
-3 | [C - Gerald's Hexagon](https://codeforces.com/contest/560/problem/C) | [GNU C++17](./codeforces/560/C.cpp) | `geometry` `*1600` | Feb/02/2021 16:12 | 
-2 | [B - Wonder Room](https://codeforces.com/contest/466/problem/B) | [GNU C++17](./codeforces/466/B.cpp) | `brute force` `math` `*2000` | Feb/01/2021 13:59 | 
-1 | [D - Cleaning the Phone](https://codeforces.com/contest/1475/problem/D) | [GNU C++17](./codeforces/1475/D.cpp) | `binary search` `dp` `sortings` `two pointers` `*1800` | Jan/31/2021 21:26 | 
+5 | [A - Nezzar and Board](https://codeforces.com/contest/1477/problem/A) | [GNU C++17](./codeforces/1477/A.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Feb/03/2021 12:47 | 
+4 | [C - Gerald's Hexagon](https://codeforces.com/contest/560/problem/C) | [GNU C++17](./codeforces/560/C.cpp) | `geometry` `*1600` | Feb/02/2021 16:12 | 
+3 | [B - Wonder Room](https://codeforces.com/contest/466/problem/B) | [GNU C++17](./codeforces/466/B.cpp) | `brute force` `math` `*2000` | Feb/01/2021 13:59 | 
+2 | [D - Cleaning the Phone](https://codeforces.com/contest/1475/problem/D) | [GNU C++17](./codeforces/1475/D.cpp) | `binary search` `dp` `sortings` `two pointers` `*1800` | Jan/31/2021 21:26 | 
+1 | [D - Journey](https://codeforces.com/contest/1476/problem/D) | [GNU C++17](./codeforces/1476/D.cpp) | `dfs and similar` `dp` `dsu` `implementation` `*1700` | Jan/31/2021 19:50 | 
