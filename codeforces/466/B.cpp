@@ -10,22 +10,33 @@ typedef long long ll;
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
-    ll n, a, b;
+    ll n, a, b, a1 = -1, b1 = -1;
     cin >> n >> a >> b;
-    ll a1 = a, b1 = b;
     if (a * b < 6 * n) {
-        ll y = max(a, b), min_area = 1e18;
-        for (ll x = min(a, b) ; x <= ceil(sqrt(6 * n)); x++) {
-            if ((6 * n + x - 1) / x >= y) {
-                if (x * ((6 * n + x - 1) / x) < min_area) {
-                    min_area = x * ((6 * n + x - 1) / x); 
-                    a1 = x; b1 = (6 * n + x - 1) / x;
+        for (ll area = 6 * n; area < 6 * (n + 1) && a1 == -1; area++) {
+            for (ll i = 1; i <= ceil(sqrt(area)); i++) {
+                if (area % i == 0) {
+                    ll x = i, y = area / i;
+                    if (x >= a && y >= b) {
+                        a1 = x; b1 = y;
+                        break;
+                    }
+                    else if (x >= b && y >= a) {
+                        a1 = y; b1 = x;
+                        break;
+                    }
                 }
             }
         }
     }
-    if (a1 < a) {
-        swap(a1, b1);
+    else {
+        a1 = a; b1 = b;
+    }
+    if (a1 == -1) {
+        a1 = a; b1 = b;
+        ll area1 = a * (((6 * n) + a - 1) / a);
+        ll area2 = b * (((6 * n) + b - 1) / b);
+        (area1 <= area2 ? b1 = ((6 * n) + a - 1) / a : a1 = ((6 * n) + b - 1) / b);
     }
     cout << a1 * b1 << "\n" << a1 << " " << b1 << "\n";
     return 0;
