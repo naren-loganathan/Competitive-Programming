@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+458 | [D - AB Graph](https://codeforces.com/contest/1481/problem/D) | [GNU C++17](./codeforces/1481/D.cpp) | `constructive algorithms` `graphs` `greedy` `implementation` `strings` | Feb/06/2021 00:34 | 
 457 | [C - K-Complete Word](https://codeforces.com/contest/1332/problem/C) | [GNU C++17](./codeforces/1332/C.cpp) | `dfs and similar` `dsu` `greedy` `implementation` `strings` `*1500` | Feb/04/2021 19:16 | 
 456 | [A - Nezzar and Board](https://codeforces.com/contest/1477/problem/A) | [GNU C++17](./codeforces/1477/A.cpp) | `constructive algorithms` `math` `number theory` `*1800` | Feb/03/2021 12:47 | 
 455 | [C - Gerald's Hexagon](https://codeforces.com/contest/560/problem/C) | [GNU C++17](./codeforces/560/C.cpp) | `geometry` `*1600` | Feb/02/2021 16:12 | 
