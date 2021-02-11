@@ -3102,6 +3102,25 @@
     ],
     "timestamp": "Feb/10/2021 11:26"
   },
+  "CF107098645": {
+    "contest_id": 29,
+    "language": "GNU C++17",
+    "path": "codeforces/29/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mail Stamps",
+    "problem_url": "https://codeforces.com/contest/29/problem/C",
+    "submission_id": "CF107098645",
+    "submission_url": "https://codeforces.com/contest/29/submission/107098645",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Feb/11/2021 10:03"
+  },
   "CF107098714": {
     "contest_id": 24,
     "language": "GNU C++17",
