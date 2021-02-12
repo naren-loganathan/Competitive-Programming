@@ -3174,6 +3174,23 @@
     ],
     "timestamp": "Feb/11/2021 20:12"
   },
+  "CF107240310": {
+    "contest_id": 1485,
+    "language": "GNU C++17",
+    "path": "codeforces/1485/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Floor and Mod",
+    "problem_url": "https://codeforces.com/contest/1485/problem/C",
+    "submission_id": "CF107240310",
+    "submission_url": "https://codeforces.com/contest/1485/submission/107240310",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/13/2021 01:13"
+  },
   "CF91660126": {
     "contest_id": 4,
     "language": "GNU C++17",

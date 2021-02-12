@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+471 | [C - Floor and Mod](https://codeforces.com/contest/1485/problem/C) | [GNU C++17](./codeforces/1485/C.cpp) | `brute force` `math` `number theory` | Feb/13/2021 01:13 | 
 470 | [A - Anton and Letters](https://codeforces.com/contest/443/problem/A) | [GNU C++17](./codeforces/443/A.cpp) | `constructive algorithms` `implementation` `*800` | Feb/11/2021 20:12 | 
 469 | [A - Ring road](https://codeforces.com/contest/24/problem/A) | [GNU C++17](./codeforces/24/A.cpp) | `graphs` `*1400` | Feb/11/2021 10:05 | 
 468 | [C - Mail Stamps](https://codeforces.com/contest/29/problem/C) | [GNU C++17](./codeforces/29/C.cpp) | `data structures` `dfs and similar` `graphs` `implementation` `*1700` | Feb/11/2021 10:03 | 
