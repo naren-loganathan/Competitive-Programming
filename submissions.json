@@ -3409,6 +3409,24 @@
     ],
     "timestamp": "Feb/17/2021 20:41"
   },
+  "CF107745636": {
+    "contest_id": 1490,
+    "language": "GNU C++17",
+    "path": "codeforces/1490/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Accidental Victory",
+    "problem_url": "https://codeforces.com/contest/1490/problem/E",
+    "submission_id": "CF107745636",
+    "submission_url": "https://codeforces.com/contest/1490/submission/107745636",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Feb/18/2021 11:23"
+  },
   "CF107747265": {
     "contest_id": 1490,
     "language": "GNU C++17",
