@@ -3565,6 +3565,23 @@
     ],
     "timestamp": "Feb/21/2021 10:41"
   },
+  "CF108263911": {
+    "contest_id": 1492,
+    "language": "GNU C++17",
+    "path": "codeforces/1492/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maximum width",
+    "problem_url": "https://codeforces.com/contest/1492/problem/C",
+    "submission_id": "CF108263911",
+    "submission_url": "https://codeforces.com/contest/1492/submission/108263911",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Feb/23/2021 15:18"
+  },
   "CF108315635": {
     "contest_id": 1492,
     "language": "GNU C++17",
