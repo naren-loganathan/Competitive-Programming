@@ -3684,6 +3684,28 @@
     ],
     "timestamp": "Feb/24/2021 20:19"
   },
+  "CF108491105": {
+    "contest_id": 1487,
+    "language": "GNU C++17",
+    "path": "codeforces/1487/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cheap Dinner",
+    "problem_url": "https://codeforces.com/contest/1487/problem/E",
+    "submission_id": "CF108491105",
+    "submission_url": "https://codeforces.com/contest/1487/submission/108491105",
+    "tags": [
+      "brute force",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Feb/25/2021 22:22"
+  },
   "CF91660126": {
     "contest_id": 4,
     "language": "GNU C++17",
