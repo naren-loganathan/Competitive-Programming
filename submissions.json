@@ -3741,6 +3741,24 @@
     ],
     "timestamp": "Feb/27/2021 11:37"
   },
+  "CF108691946": {
+    "contest_id": 1491,
+    "language": "GNU C++17",
+    "path": "codeforces/1491/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimal Cost",
+    "problem_url": "https://codeforces.com/contest/1491/problem/B",
+    "submission_id": "CF108691946",
+    "submission_url": "https://codeforces.com/contest/1491/submission/108691946",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/28/2021 19:38"
+  },
   "CF108779807": {
     "contest_id": 1491,
     "language": "GNU C++17",
