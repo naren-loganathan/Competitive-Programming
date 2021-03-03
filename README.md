@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+509 | [A - Feed the cat](https://codeforces.com/contest/955/problem/A) | [GNU C++17](./codeforces/955/A.cpp) | `greedy` `math` `*1100` | Mar/03/2021 20:15 | 
 508 | [B - Berland Crossword](https://codeforces.com/contest/1494/problem/B) | [GNU C++17](./codeforces/1494/B.cpp) | `binary search` `bitmasks` `brute force` `implementation` | Mar/02/2021 23:29 | 
 507 | [A - ABC String](https://codeforces.com/contest/1494/problem/A) | [GNU C++17](./codeforces/1494/A.cpp) | `bitmasks` `brute force` `implementation` | Mar/02/2021 20:42 | 
 506 | [D - Zookeeper and The Infinite Zoo](https://codeforces.com/contest/1491/problem/D) | [GNU C++17](./codeforces/1491/D.cpp) | `bitmasks` `constructive algorithms` `math` | Mar/01/2021 13:34 | 
