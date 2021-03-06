@@ -3978,6 +3978,23 @@
     ],
     "timestamp": "Mar/05/2021 21:11"
   },
+  "CF109191857": {
+    "contest_id": 1207,
+    "language": "GNU C++17",
+    "path": "codeforces/1207/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gas Pipeline",
+    "problem_url": "https://codeforces.com/contest/1207/problem/C",
+    "submission_id": "CF109191857",
+    "submission_url": "https://codeforces.com/contest/1207/submission/109191857",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Mar/06/2021 09:40"
+  },
   "CF109192184": {
     "contest_id": 1029,
     "language": "GNU C++17",
