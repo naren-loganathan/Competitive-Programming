@@ -3978,6 +3978,25 @@
     ],
     "timestamp": "Mar/05/2021 21:11"
   },
+  "CF109303626": {
+    "contest_id": 1493,
+    "language": "GNU C++17",
+    "path": "codeforces/1493/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "K-beautiful Strings",
+    "problem_url": "https://codeforces.com/contest/1493/problem/C",
+    "submission_id": "CF109303626",
+    "submission_url": "https://codeforces.com/contest/1493/submission/109303626",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Mar/07/2021 09:29"
+  },
   "CF109305989": {
     "contest_id": 1493,
     "language": "GNU C++17",
