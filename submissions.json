@@ -3978,6 +3978,26 @@
     ],
     "timestamp": "Mar/05/2021 21:11"
   },
+  "CF109305989": {
+    "contest_id": 1493,
+    "language": "GNU C++17",
+    "path": "codeforces/1493/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD of an Array",
+    "problem_url": "https://codeforces.com/contest/1493/problem/D",
+    "submission_id": "CF109305989",
+    "submission_url": "https://codeforces.com/contest/1493/submission/109305989",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Mar/07/2021 10:28"
+  },
   "CF91660126": {
     "contest_id": 4,
     "language": "GNU C++17",
