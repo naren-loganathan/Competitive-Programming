@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <cmath>
 using namespace std;
 
 typedef long long ll;
@@ -13,38 +12,90 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     int n, k; cin >> n >> k;
-    vector <int> books[4], cnt(4);
+    vector <int> a, b, c;
+    int al = 0, bl = 0;
     for (int i = 0; i < n; i++) {
-        int t, a, b;
-        cin >> t >> a >> b;
-        books[2 * a + b].push_back(t);
-        cnt[2 * a + b] += 1;
+        int t, ai, bi;
+        cin >> t >> ai >> bi;
+        if (ai && bi) {
+            c.push_back(t);
+            al += 1; bl += 1;
+        } else if (ai) {
+            a.push_back(t);
+            al += 1;
+        } else if (bi) {
+            b.push_back(t);
+            bl += 1;
+        }
     }
-    int ans = -1;
-    if (cnt[1] + cnt[3] >= k && cnt[2] + cnt[3] >= k)  {
-        ans = 2e9;
-        for (int i = 0; i < 4; i++) {
-            sort(books[i].begin(), books[i].end());
-        }
-        for (int i = 0; i < 4; i++) {
-            for (int j = 1; j < books[i].size(); j++) {
-                books[i][j] += books[i][j - 1];
-            }
-        }
-        if (books[3].size() >= k) {
-            ans = min(ans, books[3][k - 1]);
-        }
-        if (books[1].size() >= k && books[2].size() >= k) {
-            ans = min(ans, books[1][k - 1] + books[2][k - 1]);
-        }
-        for (int i = 0; i < k - 1 && i < books[3].size(); i++) {
-            if ((k - i - 1) <= books[1].size()) {
-                if ((k - i - 1) <= books[2].size()) {
-                    ans = min(ans, books[1][k - i - 2] + books[2][k - i - 2] + books[3][i]);
+    if (al < k || bl < k) cout << -1 << '\n';
+    else {
+        al = k, bl = k;
+        int ans = 0;
+        sort(a.begin(), a.end(), greater <int> ());
+        sort(b.begin(), b.end(), greater <int> ());
+        sort(c.begin(), c.end(), greater <int> ());
+        while (al > 0 && bl > 0) {
+            if (al > 0 && bl > 0) {
+                if (!c.empty()) {
+                    if (!a.empty() && !b.empty()) {
+                        if (a.back() + b.back() > c.back()) {
+                            ans += c.back();
+                            c.pop_back();
+                        } else {
+                            ans += a.back() + b.back();
+                            a.pop_back(); b.pop_back();
+                        }
+                    } else {
+                        ans += c.back();
+                        c.pop_back();
+                    }
+                } else {
+                    ans += a.back() + b.back();
+                    a.pop_back(); b.pop_back();
                 }
+                al -= 1; bl -= 1;
+            } else if (al > 0) {
+                if (!c.empty()) {
+                    if (!a.empty()) {
+                        if (c.back() < a.back()) {
+                            ans += c.back();
+                            c.pop_back();
+                        } else {
+                            ans += a.back();
+                            a.pop_back();
+                        }
+                    } else {
+                        ans += c.back();
+                        a.pop_back();
+                    }
+                } else {
+                    ans += a.back();
+                    a.pop_back();
+                }
+                al -= 1;
+            } else if (bl > 0) {
+                if (!c.empty()) {
+                    if (!b.empty()) {
+                        if (c.back() < b.back()) {
+                            ans += c.back();
+                            c.pop_back();
+                        } else {
+                            ans += b.back();
+                            b.pop_back();
+                        }
+                    } else {
+                        ans += c.back();
+                        c.pop_back();
+                    }
+                } else {
+                    ans += b.back();
+                    b.pop_back();
+                }
+                bl -= 1;
             }
         }
+        cout << ans << '\n';
     }
-    cout << ans << '\n';
     return 0;
 }
