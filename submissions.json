@@ -4261,6 +4261,24 @@
     ],
     "timestamp": "Mar/11/2021 11:49"
   },
+  "CF109932923": {
+    "contest_id": 727,
+    "language": "GNU C++17",
+    "path": "codeforces/727/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bill Total Value",
+    "problem_url": "https://codeforces.com/contest/727/problem/B",
+    "submission_id": "CF109932923",
+    "submission_url": "https://codeforces.com/contest/727/submission/109932923",
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Mar/14/2021 08:56"
+  },
   "CF110005273": {
     "contest_id": 1281,
     "language": "GNU C++17",
