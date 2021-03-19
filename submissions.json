@@ -4383,6 +4383,24 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF110470572": {
+    "contest_id": 1499,
+    "language": "GNU C++17",
+    "path": "codeforces/1499/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Number of Pairs",
+    "problem_url": "https://codeforces.com/contest/1499/problem/D",
+    "submission_id": "CF110470572",
+    "submission_url": "https://codeforces.com/contest/1499/submission/110470572",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "Mar/19/2021 21:58"
+  },
   "CF110508403": {
     "contest_id": 1497,
     "language": "GNU C++17",
