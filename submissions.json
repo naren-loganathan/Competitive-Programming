@@ -4383,6 +4383,23 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF111231379": {
+    "contest_id": 1506,
+    "language": "GNU C++17",
+    "path": "codeforces/1506/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Partial Replacement",
+    "problem_url": "https://codeforces.com/contest/1506/problem/B",
+    "submission_id": "CF111231379",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111231379",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/27/2021 23:11"
+  },
   "CF111263777": {
     "contest_id": 1506,
     "language": "GNU C++17",
