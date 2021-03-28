@@ -4383,6 +4383,26 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF111263777": {
+    "contest_id": 1506,
+    "language": "GNU C++17",
+    "path": "codeforces/1506/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Maximize the Remaining String",
+    "problem_url": "https://codeforces.com/contest/1506/problem/G",
+    "submission_id": "CF111263777",
+    "submission_url": "https://codeforces.com/contest/1506/submission/111263777",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Mar/28/2021 13:27"
+  },
   "CF111362683": {
     "contest_id": 1498,
     "language": "GNU C++17",
