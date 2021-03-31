@@ -4383,6 +4383,24 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF111537393": {
+    "contest_id": 1498,
+    "language": "GNU C++17",
+    "path": "codeforces/1498/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bananas in a Microwave",
+    "problem_url": "https://codeforces.com/contest/1498/problem/D",
+    "submission_id": "CF111537393",
+    "submission_url": "https://codeforces.com/contest/1498/submission/111537393",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "implementation"
+    ],
+    "timestamp": "Mar/31/2021 13:47"
+  },
   "CF111657840": {
     "contest_id": 1505,
     "language": "GNU C++17",
