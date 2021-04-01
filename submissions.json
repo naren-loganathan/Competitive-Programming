@@ -4383,6 +4383,25 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF111727856": {
+    "contest_id": 1505,
+    "language": "GNU C++17",
+    "path": "codeforces/1505/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cakewalk",
+    "problem_url": "https://codeforces.com/contest/1505/problem/E",
+    "submission_id": "CF111727856",
+    "submission_url": "https://codeforces.com/contest/1505/submission/111727856",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "shortest paths"
+    ],
+    "timestamp": "Apr/01/2021 22:42"
+  },
   "CF111729496": {
     "contest_id": 1505,
     "language": "GNU C++17",
