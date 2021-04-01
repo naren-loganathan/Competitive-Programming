@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-545 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++17](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` | Apr/03/2021 21:22 | 
-544 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++17](./codeforces/1504/B.cpp) | `greedy` `implementation` `math` `math` | Apr/03/2021 20:28 | 
-543 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++17](./codeforces/1504/A.cpp) | `constructive algorithms` | Apr/03/2021 20:15 | 
-542 | [D - Xenolith? Hippodrome?](https://codeforces.com/contest/1505/problem/D) | [GNU C++17](./codeforces/1505/D.cpp) | `number theory` | Apr/02/2021 22:17 | 
-541 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++17](./codeforces/1505/B.cpp) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:01 | 
-540 | [E - Cakewalk](https://codeforces.com/contest/1505/problem/E) | [GNU C++17](./codeforces/1505/E.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `shortest paths` | Apr/01/2021 22:42 | 
-539 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++17](./codeforces/1505/F.cpp) | `constructive algorithms` `math` | Apr/01/2021 22:18 | 
-538 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++17](./codeforces/1505/C.cpp) | `constructive algorithms` `implementation` | Apr/01/2021 20:30 | 
+546 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++17](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` | Apr/03/2021 21:22 | 
+545 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++17](./codeforces/1504/B.cpp) | `greedy` `implementation` `math` `math` | Apr/03/2021 20:28 | 
+544 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++17](./codeforces/1504/A.cpp) | `constructive algorithms` | Apr/03/2021 20:15 | 
+543 | [D - Xenolith? Hippodrome?](https://codeforces.com/contest/1505/problem/D) | [GNU C++17](./codeforces/1505/D.cpp) | `number theory` | Apr/02/2021 22:17 | 
+542 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++17](./codeforces/1505/B.cpp) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 23:01 | 
+541 | [E - Cakewalk](https://codeforces.com/contest/1505/problem/E) | [GNU C++17](./codeforces/1505/E.cpp) | `constructive algorithms` `dp` `greedy` `implementation` `shortest paths` | Apr/01/2021 22:42 | 
+540 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++17](./codeforces/1505/F.cpp) | `constructive algorithms` `math` | Apr/01/2021 22:18 | 
+539 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++17](./codeforces/1505/C.cpp) | `constructive algorithms` `implementation` | Apr/01/2021 20:30 | 
+538 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [GNU C++17](./codeforces/1505/A.cpp) | `implementation` `interactive` | Apr/01/2021 20:09 | 
 537 | [B - Azamon Web Services](https://codeforces.com/contest/1281/problem/B) | [GNU C++17](./codeforces/1281/B.cpp) | `greedy` `*1600` | Mar/15/2021 08:24 | 
 536 | [B - Bill Total Value](https://codeforces.com/contest/727/problem/B) | [GNU C++17](./codeforces/727/B.cpp) | `expression parsing` `implementation` `strings` `*1600` | Mar/14/2021 08:56 | 
 535 | [C - Going Home](https://codeforces.com/contest/1501/problem/C) | [GNU C++17](./codeforces/1501/C.cpp) | `brute force` `implementation` `math` `*1800` | Mar/13/2021 19:17 | 
