@@ -4383,6 +4383,24 @@
     ],
     "timestamp": "Mar/15/2021 08:24"
   },
+  "CF111886588": {
+    "contest_id": 1504,
+    "language": "GNU C++17",
+    "path": "codeforces/1504/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flip the Bits",
+    "problem_url": "https://codeforces.com/contest/1504/problem/B",
+    "submission_id": "CF111886588",
+    "submission_url": "https://codeforces.com/contest/1504/submission/111886588",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "math"
+    ],
+    "timestamp": "Apr/03/2021 20:28"
+  },
   "CF111916082": {
     "contest_id": 1504,
     "language": "GNU C++17",
