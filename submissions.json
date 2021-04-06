@@ -5091,6 +5091,28 @@
     ],
     "timestamp": "Apr/04/2021 08:42"
   },
+  "CF112127173": {
+    "contest_id": 1365,
+    "language": "GNU C++17",
+    "path": "codeforces/1365/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Solve The Maze",
+    "problem_url": "https://codeforces.com/contest/1365/problem/D",
+    "submission_id": "CF112127173",
+    "submission_url": "https://codeforces.com/contest/1365/submission/112127173",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "Apr/06/2021 12:33"
+  },
   "CF112207509": {
     "contest_id": 1401,
     "language": "GNU C++17",
