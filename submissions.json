@@ -5091,6 +5091,24 @@
     ],
     "timestamp": "Apr/04/2021 08:42"
   },
+  "CF112275847": {
+    "contest_id": 263,
+    "language": "GNU C++17",
+    "path": "codeforces/263/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circle of Numbers",
+    "problem_url": "https://codeforces.com/contest/263/problem/C",
+    "submission_id": "CF112275847",
+    "submission_url": "https://codeforces.com/contest/263/submission/112275847",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Apr/08/2021 11:32"
+  },
   "CF112393888": {
     "contest_id": 467,
     "language": "GNU C++17",
