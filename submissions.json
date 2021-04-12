@@ -5091,6 +5091,22 @@
     ],
     "timestamp": "Apr/04/2021 08:42"
   },
+  "CF112760269": {
+    "contest_id": 977,
+    "language": "GNU C++17",
+    "path": "codeforces/977/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Consecutive Subsequence",
+    "problem_url": "https://codeforces.com/contest/977/problem/F",
+    "submission_id": "CF112760269",
+    "submission_url": "https://codeforces.com/contest/977/submission/112760269",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Apr/12/2021 13:54"
+  },
   "CF112906694": {
     "contest_id": 1334,
     "language": "GNU C++17",
