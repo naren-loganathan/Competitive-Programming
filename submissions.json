@@ -5500,6 +5500,23 @@
     ],
     "timestamp": "Apr/18/2021 13:59"
   },
+  "CF113586345": {
+    "contest_id": 1514,
+    "language": "GNU C++17",
+    "path": "codeforces/1514/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Product 1 Modulo N",
+    "problem_url": "https://codeforces.com/contest/1514/problem/C",
+    "submission_id": "CF113586345",
+    "submission_url": "https://codeforces.com/contest/1514/submission/113586345",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/20/2021 12:21"
+  },
   "CF91660126": {
     "contest_id": 4,
     "language": "GNU C++17",
