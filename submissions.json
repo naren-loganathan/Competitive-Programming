@@ -5603,6 +5603,25 @@
     ],
     "timestamp": "Apr/20/2021 12:21"
   },
+  "CF114570487": {
+    "contest_id": 1519,
+    "language": "GNU C++17",
+    "path": "codeforces/1519/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berland Regional",
+    "problem_url": "https://codeforces.com/contest/1519/problem/C",
+    "submission_id": "CF114570487",
+    "submission_url": "https://codeforces.com/contest/1519/submission/114570487",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Apr/29/2021 20:38"
+  },
   "CF114585665": {
     "contest_id": 1519,
     "language": "GNU C++17",
