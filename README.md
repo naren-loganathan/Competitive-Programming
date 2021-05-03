@@ -12,27 +12,28 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-645 | [B - Tyndex.Brome](https://codeforces.com/contest/62/problem/B) | [GNU C++17](./codeforces/62/B.cpp) | `binary search` `implementation` `*1800` | May/14/2021 11:44 | 
-644 | [D - Aerodynamic](https://codeforces.com/contest/1300/problem/D) | [GNU C++17](./codeforces/1300/D.cpp) | `geometry` `*1800` | May/13/2021 23:07 | 
-643 | [D - Nastia Plays with a Tree](https://codeforces.com/contest/1521/problem/D) | [GNU C++17](./codeforces/1521/D.cpp) | `constructive algorithms` `data structures` `dfs and similar` `dp` `dsu` `greedy` `implementation` `trees` `*2500` | May/12/2021 14:04 | 
-642 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [GNU C++17](./codeforces/1480/D1.cpp) | `data structures` `dp` `greedy` `implementation` `*1900` | May/11/2021 10:14 | 
-641 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++17](./codeforces/1521/B.cpp) | `constructive algorithms` `math` `number theory` `*1300` | May/10/2021 22:35 | 
-640 | [D - Dasha and Very Difficult Problem](https://codeforces.com/contest/761/problem/D) | [GNU C++17](./codeforces/761/D.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `*1700` | May/09/2021 11:57 | 
-639 | [F2 - Guess the K-th Zero (Hard version)](https://codeforces.com/contest/1520/problem/F2) | [GNU C++17](./codeforces/1520/F2.cpp) | `binary search` `constructive algorithms` `data structures` `interactive` `*2200` | May/08/2021 20:46 | 
-638 | [G - To Go Or Not To Go?](https://codeforces.com/contest/1520/problem/G) | [GNU C++17](./codeforces/1520/G.cpp) | `brute force` `dfs and similar` `graphs` `greedy` `implementation` `shortest paths` `*2200` | May/08/2021 15:15 | 
-637 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++17](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | May/08/2021 13:09 | 
-636 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [GNU C++17](./codeforces/1520/E.cpp) | `greedy` `math` `*1400` | May/08/2021 12:17 | 
-635 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | May/08/2021 11:59 | 
-634 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [GNU C++17](./codeforces/1520/C.cpp) | `constructive algorithms` `*1000` | May/08/2021 11:52 | 
-633 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [GNU C++17](./codeforces/1520/B.cpp) | `brute force` `math` `number theory` `*800` | May/08/2021 11:44 | 
-632 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | May/08/2021 11:38 | 
-631 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [GNU C++17](./codeforces/1521/A.cpp) | `constructive algorithms` `math` `number theory` `*1000` | May/07/2021 23:14 | 
-630 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/07/2021 15:39 | 
-629 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/07/2021 14:19 | 
-628 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/07/2021 13:38 | 
-627 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [GNU C++17](./codeforces/1515/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | May/06/2021 19:57 | 
-626 | [C - The Number Of Good Substrings](https://codeforces.com/contest/1217/problem/C) | [GNU C++17](./codeforces/1217/C.cpp) | `binary search` `bitmasks` `brute force` `*1700` | May/05/2021 13:11 | 
-625 | [C - Jon Snow and his Favourite Number](https://codeforces.com/contest/768/problem/C) | [GNU C++17](./codeforces/768/C.cpp) | `brute force` `dp` `implementation` `sortings` `*1800` | May/04/2021 13:28 | 
+646 | [B - Tyndex.Brome](https://codeforces.com/contest/62/problem/B) | [GNU C++17](./codeforces/62/B.cpp) | `binary search` `implementation` `*1800` | May/14/2021 11:44 | 
+645 | [D - Aerodynamic](https://codeforces.com/contest/1300/problem/D) | [GNU C++17](./codeforces/1300/D.cpp) | `geometry` `*1800` | May/13/2021 23:07 | 
+644 | [D - Nastia Plays with a Tree](https://codeforces.com/contest/1521/problem/D) | [GNU C++17](./codeforces/1521/D.cpp) | `constructive algorithms` `data structures` `dfs and similar` `dp` `dsu` `greedy` `implementation` `trees` `*2500` | May/12/2021 14:04 | 
+643 | [D1 - Painting the Array I](https://codeforces.com/contest/1480/problem/D1) | [GNU C++17](./codeforces/1480/D1.cpp) | `data structures` `dp` `greedy` `implementation` `*1900` | May/11/2021 10:14 | 
+642 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++17](./codeforces/1521/B.cpp) | `constructive algorithms` `math` `number theory` `*1300` | May/10/2021 22:35 | 
+641 | [D - Dasha and Very Difficult Problem](https://codeforces.com/contest/761/problem/D) | [GNU C++17](./codeforces/761/D.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `sortings` `*1700` | May/09/2021 11:57 | 
+640 | [F2 - Guess the K-th Zero (Hard version)](https://codeforces.com/contest/1520/problem/F2) | [GNU C++17](./codeforces/1520/F2.cpp) | `binary search` `constructive algorithms` `data structures` `interactive` `*2200` | May/08/2021 20:46 | 
+639 | [G - To Go Or Not To Go?](https://codeforces.com/contest/1520/problem/G) | [GNU C++17](./codeforces/1520/G.cpp) | `brute force` `dfs and similar` `graphs` `greedy` `implementation` `shortest paths` `*2200` | May/08/2021 15:15 | 
+638 | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++17](./codeforces/1520/F1.cpp) | `binary search` `interactive` `*1600` | May/08/2021 13:09 | 
+637 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [GNU C++17](./codeforces/1520/E.cpp) | `greedy` `math` `*1400` | May/08/2021 12:17 | 
+636 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | May/08/2021 11:59 | 
+635 | [C - Not Adjacent Matrix](https://codeforces.com/contest/1520/problem/C) | [GNU C++17](./codeforces/1520/C.cpp) | `constructive algorithms` `*1000` | May/08/2021 11:52 | 
+634 | [B - Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | [GNU C++17](./codeforces/1520/B.cpp) | `brute force` `math` `number theory` `*800` | May/08/2021 11:44 | 
+633 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | May/08/2021 11:38 | 
+632 | [A - Nastia and Nearly Good Numbers](https://codeforces.com/contest/1521/problem/A) | [GNU C++17](./codeforces/1521/A.cpp) | `constructive algorithms` `math` `number theory` `*1000` | May/07/2021 23:14 | 
+631 | [D - Phoenix and Socks](https://codeforces.com/contest/1515/problem/D) | [GNU C++17](./codeforces/1515/D.cpp) | `greedy` `sortings` `two pointers` `*1500` | May/07/2021 15:39 | 
+630 | [C - Phoenix and Towers](https://codeforces.com/contest/1515/problem/C) | [GNU C++17](./codeforces/1515/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1400` | May/07/2021 14:19 | 
+629 | [B - Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | [GNU C++17](./codeforces/1515/B.cpp) | `brute force` `geometry` `math` `number theory` `*1000` | May/07/2021 13:38 | 
+628 | [A - Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | [GNU C++17](./codeforces/1515/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | May/06/2021 19:57 | 
+627 | [C - The Number Of Good Substrings](https://codeforces.com/contest/1217/problem/C) | [GNU C++17](./codeforces/1217/C.cpp) | `binary search` `bitmasks` `brute force` `*1700` | May/05/2021 13:11 | 
+626 | [C - Jon Snow and his Favourite Number](https://codeforces.com/contest/768/problem/C) | [GNU C++17](./codeforces/768/C.cpp) | `brute force` `dp` `implementation` `sortings` `*1800` | May/04/2021 13:28 | 
+625 | [C - Messy](https://codeforces.com/contest/1227/problem/C) | [GNU C++17](./codeforces/1227/C.cpp) | `constructive algorithms` `*1700` | May/03/2021 19:27 | 
 624 | [B - String Problem](https://codeforces.com/contest/33/problem/B) | [GNU C++17](./codeforces/33/B.cpp) | `shortest paths` `*1800` | Apr/30/2021 21:11 | 
 623 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [GNU C++17](./codeforces/1519/D.cpp) | `brute force` `dp` `implementation` `math` `two pointers` | Apr/29/2021 21:04 | 
 622 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `sortings` `two pointers` | Apr/29/2021 20:38 | 
