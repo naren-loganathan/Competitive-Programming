@@ -7,10 +7,11 @@ typedef long long ll;
 #define se second
 #define mp make_pair
 
-class FenwickTree {
+class BIT {
     private:
 
-    int n; vector <int> tree;
+    int n;
+    vector <int> tree;
 
     int prefix_sum(int r) {
         int sum = 0;
@@ -30,10 +31,9 @@ class FenwickTree {
 
     public:
 
-    FenwickTree(const vector<int> &a): n(a.size()), tree(n, 0) {
-        for(int i = 0; i < n; i++) {
-            range_update(i, i, a[i]);
-        }
+    BIT(int n) {
+        this -> n = n;
+        tree.assign(n, 0);
     }
 
     void range_update(int l, int r, int x) {
@@ -58,17 +58,18 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     int n, t; cin >> n >> t;
-    FenwickTree f(vector <int> (n + 1, -1e6));
+    BIT fenwick_tree = BIT(n + 1);
+    fenwick_tree.range_update(1, n, -1e6);
     while (t--) {
         int k, ans; 
         cin >> k;
         int l = 1, r = n;
         while (l < r) {
             int mid = (r + l) >> 1;
-            int q = f.point_query(mid);
+            int q = fenwick_tree.point_query(mid);
             if (q < 0) {
                 int x = query(1, mid);
-                f.range_update(mid, mid, x - q);
+                fenwick_tree.range_update(mid, mid, x - q);
                 q = x;
             }
             if (mid == l) {
@@ -86,7 +87,7 @@ int main() {
             }
         }
         cout << "! " << l << endl;
-        f.range_update(l, n, 1);
+        fenwick_tree.range_update(l, n, 1);
     }
     return 0;
 }
