@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-625 | [B - Tyndex.Brome](https://codeforces.com/contest/62/problem/B) | [GNU C++17](./codeforces/62/B.cpp) | `binary search` `implementation` `*1800` | May/14/2021 11:44 | 
+626 | [B - Tyndex.Brome](https://codeforces.com/contest/62/problem/B) | [GNU C++17](./codeforces/62/B.cpp) | `binary search` `implementation` `*1800` | May/14/2021 11:44 | 
+625 | [D - Aerodynamic](https://codeforces.com/contest/1300/problem/D) | [GNU C++17](./codeforces/1300/D.cpp) | `geometry` `*1800` | May/13/2021 23:07 | 
 624 | [B - String Problem](https://codeforces.com/contest/33/problem/B) | [GNU C++17](./codeforces/33/B.cpp) | `shortest paths` `*1800` | Apr/30/2021 21:11 | 
 623 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [GNU C++17](./codeforces/1519/D.cpp) | `brute force` `dp` `implementation` `math` `two pointers` | Apr/29/2021 21:04 | 
 622 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `sortings` `two pointers` | Apr/29/2021 20:38 | 
