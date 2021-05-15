@@ -7,15 +7,42 @@ typedef long long ll;
 #define se second
 #define mp make_pair
 
-//Yeah, that was a bit overkill...
+//Overkill?
+template <typename T>
+struct Fenwick {
+    const int n; vector <T> tree;
+    Fenwick(int n) : n(n), tree(n) {}
+    void update(int x, T v) {
+        for (int i = x; i < n; i = (i | (i + 1))) {
+            tree[i] += v;
+        }
+    }
+    T sum(int x) {
+        T ans = 0;
+        for (int i = x; i >= 0; i = (i & (i + 1)) - 1) {
+            ans += tree[i];
+        }
+        return ans;
+    }
+    void range_update(int l, int r, T v) {
+        update(l, v);
+        if (r + 1 < n) {
+            update(r + 1, -v);
+        }
+    }
+    T point_query(int x) {
+        return sum(x);
+    }
+};
 
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     ll n, m, k; cin >> n >> m >> k;
-    vector <ll> t(n), add(n);
+    Fenwick <ll> t(n);
     for (int i = 0; i < n; i++) {
-        cin >> t[i];
+        ll a; cin >> a;
+        t.range_update(i, i, a);
     }
     vector <ll> l(m), r(m), d(m), pre(m);
     for (int i = 0; i < m; i++) {
@@ -34,17 +61,10 @@ int main() {
         pre[i] += pre[i - 1];
     }
     for (int i = 0; i < m; i++) {
-        ll inc = pre[i] * d[i];
-        add[l[i]] += inc;
-        if (r[i] + 1 < n) {
-            add[r[i] + 1] -= inc;
-        }
-    }
-    for (int i = 1; i < n; i++) {
-        add[i] += add[i - 1];
+        t.range_update(l[i], r[i], d[i] * pre[i]);
     }
     for (int i = 0; i < n; i++) {
-        cout << t[i] + add[i] << ' ';
+        cout << t.point_query(i) << ' ';
     }
     cout << '\n';
     return 0;
