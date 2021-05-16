@@ -6406,6 +6406,24 @@
     ],
     "timestamp": "May/14/2021 11:44"
   },
+  "CF116317701": {
+    "contest_id": 255,
+    "language": "GNU C++17",
+    "path": "codeforces/255/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mr. Bender and Square",
+    "problem_url": "https://codeforces.com/contest/255/problem/D",
+    "submission_id": "CF116317701",
+    "submission_url": "https://codeforces.com/contest/255/submission/116317701",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/16/2021 12:50"
+  },
   "CF116456735": {
     "contest_id": 1406,
     "language": "GNU C++17",
