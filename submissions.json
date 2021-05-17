@@ -6406,6 +6406,25 @@
     ],
     "timestamp": "May/14/2021 11:44"
   },
+  "CF116456735": {
+    "contest_id": 1406,
+    "language": "GNU C++17",
+    "path": "codeforces/1406/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Link Cut Centroids",
+    "problem_url": "https://codeforces.com/contest/1406/problem/C",
+    "submission_id": "CF116456735",
+    "submission_url": "https://codeforces.com/contest/1406/submission/116456735",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "May/17/2021 12:42"
+  },
   "CF116536092": {
     "contest_id": 538,
     "language": "GNU C++17",
