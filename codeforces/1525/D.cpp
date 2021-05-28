@@ -20,7 +20,7 @@ int main() {
         }
         p[i] = p[i - 1] + a[i];
     }
-    vector < vector <int> > dp(n + 1, vector <int> (p.back() + 1, 1e9));
+    vector < vector <int> > dp(n + 1, vector <int> (n + 1, 1e9));
     for (int i = 0; i <= n; i++) {
         dp[i][0] = 0;
     }
@@ -33,6 +33,10 @@ int main() {
             }
         }
     }
-    cout << dp[n][p.back()] << '\n';
+    int ans = 1e9;
+    for (int i = 1; i <= n; i++) {
+        ans = min(ans, dp[i][p.back()]);
+    }
+    cout << ans << '\n';
     return 0;
 }
