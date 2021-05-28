@@ -12,27 +12,40 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     int n; cin >> n;
-    vector <ll> a(n + 1);
-    for (int i = 1; i <= n; i++) {
+    vector <ll> a(n), take(n, 0);
+    for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
-    vector < vector <ll> > dp(n + 1, vector <ll> (n + 1, -1e18));
-    for (int i = 0; i <= n; i++) {
-        dp[i][0] = 0;
-    }
-    for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= i; j++) {
-            dp[i][j] = dp[i - 1][j];
-            if (dp[i - 1][j - 1] + a[i] >= 0) {
-                dp[i][j] = max(dp[i][j], dp[i - 1][j - 1] + a[i]);
+    set < pair <ll, ll> > neg_set;
+    ll curr = 0;
+    for (int i = 0; i < n; i++) {
+        if (a[i] >= 0) {
+            curr += a[i];
+            take[i] = 1;
+        } else {
+            if (curr + a[i] < 0) {
+                if (!neg_set.empty()) {
+                    pair <ll, ll> rem = *(neg_set.begin());
+                    if (curr - rem.fi + a[i] >= 0 && rem.fi < a[i]) {
+                        take[rem.se] = 0; take[i] = 1;
+                        curr = curr - rem.fi + a[i];
+                        neg_set.erase(rem);
+                        neg_set.insert(mp(a[i], i));
+                    }
+                }
+            } else {
+                neg_set.insert(mp(a[i], i));
+                curr += a[i];
+                take[i] = 1;
             }
         }
     }
-    for (int j = n; j >= 0; j--) {
-        if (dp[n][j] >= 0) {
-            cout << j << '\n';
-            break;
+    int cnt = 0;
+    for (int i = 0; i < n; i++) {
+        if (take[i] == 1) {
+            cnt += 1;
         }
     }
+    cout << cnt << '\n';
     return 0;
 }
