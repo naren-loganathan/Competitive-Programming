@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-662 | [C - Compression and Expansion](https://codeforces.com/contest/1523/problem/C) | [GNU C++17](./codeforces/1523/C.cpp) | `brute force` `data structures` `implementation` `trees` `*1600` | May/31/2021 00:52 | 
+663 | [C - Compression and Expansion](https://codeforces.com/contest/1523/problem/C) | [GNU C++17](./codeforces/1523/C.cpp) | `brute force` `data structures` `implementation` `trees` `*1600` | May/31/2021 00:52 | 
+662 | [A - Multicolored Marbles](https://codeforces.com/contest/209/problem/A) | [GNU C++17](./codeforces/209/A.cpp) | `dp` `math` `*1600` | May/31/2021 00:46 | 
 661 | [C - Parsa's Humongous Tree](https://codeforces.com/contest/1529/problem/C) | [GNU C++17](./codeforces/1529/C.cpp) | `dfs and similar` `dp` `graphs` `greedy` `trees` | May/27/2021 02:48 | 
 660 | [C2 - Balanced Removals (Harder)](https://codeforces.com/contest/1237/problem/C2) | [GNU C++17](./codeforces/1237/C2.cpp) | `binary search` `constructive algorithms` `divide and conquer` `greedy` `implementation` `sortings` `*1900` | May/26/2021 00:30 | 
 659 | [B - Airport](https://codeforces.com/contest/218/problem/B) | [GNU C++17](./codeforces/218/B.cpp) | `implementation` `*1100` | May/24/2021 13:22 | 
