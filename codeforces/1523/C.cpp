@@ -17,20 +17,35 @@ int main() {
         for (int i = 0; i < n; i++) {
             cin >> a[i];
         }
-        vector <int> cur;
-        for (int i = 0; i < n; i++) {
+        vector < vector <int> > ans(n), idx(n + 1);
+        ans[0].push_back(1);
+        idx[1].push_back(0);
+        vector <bool> complete(n);
+        for (int i = 1; i < n; i++) {
             if (a[i] == 1) {
-                cur.push_back(1);
+                ans[i] = ans[i - 1];
+                ans[i].push_back(1);
             } else {
-                while (cur.back() != a[i] - 1) {
-                    cur.pop_back();
+                while (complete[idx[a[i] - 1].back()]) {
+                    idx[a[i] - 1].pop_back();
                 }
-                cur.back()++;
+                ans[i] = ans[idx[a[i] - 1].back()];
+                ans[i].back()++;
+                for (int j = idx[a[i] - 1].back(); j < i; j++) {
+                    complete[j] = true;
+                }
+                idx[a[i] - 1].pop_back();
             }
-            for (int j = 0; j < cur.size() - 1; j++) {
-                cout << cur[j] << '.';
+            idx[a[i]].push_back(i);
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < ans[i].size(); j++) {
+                if (j + 1 != ans[i].size()) {
+                    cout << ans[i][j] << '.';
+                } else {
+                    cout << ans[i][j] << '\n';
+                }
             }
-            cout << cur.back() << '\n';
         }
     }
     return 0;
