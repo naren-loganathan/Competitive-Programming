@@ -6952,6 +6952,23 @@
     ],
     "timestamp": "May/31/2021 00:52"
   },
+  "CF118306813": {
+    "contest_id": 355,
+    "language": "GNU C++17",
+    "path": "codeforces/355/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vasya and Public Transport",
+    "problem_url": "https://codeforces.com/contest/355/problem/B",
+    "submission_id": "CF118306813",
+    "submission_url": "https://codeforces.com/contest/355/submission/118306813",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jun/03/2021 23:50"
+  },
   "CF118307088": {
     "contest_id": 1271,
     "language": "GNU C++17",
