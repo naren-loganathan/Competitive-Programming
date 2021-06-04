@@ -6952,6 +6952,23 @@
     ],
     "timestamp": "May/31/2021 00:52"
   },
+  "CF118393759": {
+    "contest_id": 1535,
+    "language": "GNU C++17",
+    "path": "codeforces/1535/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unstable String",
+    "problem_url": "https://codeforces.com/contest/1535/problem/C",
+    "submission_id": "CF118393759",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118393759",
+    "tags": [
+      "dp",
+      "strings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/04/2021 20:24"
+  },
   "CF118426746": {
     "contest_id": 1535,
     "language": "GNU C++17",
